@@ -1,0 +1,3 @@
+from modules.rag_engine import create_vector_database
+
+create_vector_database()

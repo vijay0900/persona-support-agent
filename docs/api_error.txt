@@ -1,0 +1,14 @@
+API Authentication Guide
+
+Possible reasons:
+
+1. Invalid API key
+2. Expired token
+3. Wrong authorization header
+
+Troubleshooting:
+
+1. Verify API key
+2. Generate a new token
+3. Check headers
+4. Retry request
